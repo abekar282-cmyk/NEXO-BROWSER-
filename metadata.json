@@ -1,0 +1,6 @@
+{
+  "name": "NEXO BROWSER",
+  "description": "Multi-profile Android 15+ privacy browser with 100 isolated profiles, authenticated SOCKS5 proxy management, bulk proxy import, and Keystore-encrypted credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
